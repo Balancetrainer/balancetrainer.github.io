@@ -8,7 +8,7 @@
   color: #feffff;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  color: #edab00;
+  color: #671370;
 }
 .navbar-default .navbar-text {
   color: #feffff;
@@ -17,7 +17,7 @@
   color: #feffff;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #edab00;
+  color: #671370;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu {
   background-color: #35a4dd;
@@ -27,18 +27,18 @@
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
-  color: #edab00;
+  color: #671370;
   background-color: #35a4dd;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
   background-color: #35a4dd;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  color: #edab00;
+  color: #671370;
   background-color: #35a4dd;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #edab00;
+  color: #671370;
   background-color: #35a4dd;
 }
 .navbar-default .navbar-toggle {
@@ -58,7 +58,7 @@
   color: #feffff;
 }
 .navbar-default .navbar-link:hover {
-  color: #edab00;
+  color: #671370;
 }
 
 @media (max-width: 767px) {
@@ -66,10 +66,10 @@
     color: #feffff;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #edab00;
+    color: #671370;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #edab00;
+    color: #671370;
     background-color: #35a4dd;
   }
 }
@@ -91,7 +91,7 @@
 #section1{background-color:#24a5de ; color:#fff ; padding-top:10px ; padding-bottom:10px; }
 #section2{background-color:#fff; color:#24a5de ; padding-top:10px ; padding-bottom:10px; }
 #section3{background-color:#24a5de ; color:#fff ; padding-top:10px ; padding-bottom:10px; }
-#section4{background-color:#fff; color:#24a5de ; padding-top:10px ; padding-bottom:10px; }
+#section4{background-color:#fff; color:#24a5de ; padding-top:50px ; padding-bottom:10px; }
 #section5{background-color:#24a5de ; color:#fff ; padding-top:10px ; padding-bottom:10px; }
 
 .flex-video
@@ -99,4 +99,3 @@
 
 .navbar-inverse
 { margin-top: 30px ;}
-
