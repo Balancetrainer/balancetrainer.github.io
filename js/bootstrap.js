@@ -2362,11 +2362,5 @@ if (typeof jQuery === 'undefined') {
       }
     }
   })
-  $('#nav').affix({
-    offset: {
-    top: $('header').height()-$('#nav').height()
-    }
-  });
-
 
 }(jQuery);
